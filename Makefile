@@ -2,7 +2,7 @@ PYTHON=`which python`
 DESTDIR=/
 BUILDIR=$(CURDIR)/debian/python-slowaes
 PROJECT=python-slowaes
-VERSION=0.1a1
+VERSION=0.1a1-1ppa1
 
 all:
 	@echo "make source - Create source package"
