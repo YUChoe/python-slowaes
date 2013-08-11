@@ -2,7 +2,7 @@ Source: python-slowaes
 Section: python
 Priority: optional
 Maintainer: Jakh Daven <tuxcanfly@gmail.com>
-Build-Depends: cdbs, debhelper, python-support, python-all
+Build-Depends: python-setuptools, cdbs, debhelper, python-support, python-all
 XS-Python-Version: >=2.4
 Standards-Version: 3.9.4
 
