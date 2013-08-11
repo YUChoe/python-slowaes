@@ -1,0 +1,12 @@
+This package was debianized by Jakh Daven <tuxcanfly@gmail.com>
+ on Sun Aug 11 19:50:00 IST 2013
+
+It was downloaded from https://pypi.python.org/pypi/slowaes
+
+Files: *
+Copyright:
+    2013 python-slowaes Authors
+License: Apache-2.0
+
+On Debian systems, the complete text of the Apache-2.0 License can be found in
+`/usr/share/common-licenses/Apache-2.0'.
